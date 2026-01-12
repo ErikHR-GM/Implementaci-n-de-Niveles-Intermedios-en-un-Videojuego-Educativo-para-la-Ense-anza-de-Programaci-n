@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"cargar_pregunta",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cargar_pregunta",
+  "parent":{
+    "name":"obj_c4",
+    "path":"folders/Objetos/obj_c4.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

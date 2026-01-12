@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"cargar_pregunta_python5",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cargar_pregunta_python5",
+  "parent":{
+    "name":"obj_python5",
+    "path":"folders/Objetos/obj_python5.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

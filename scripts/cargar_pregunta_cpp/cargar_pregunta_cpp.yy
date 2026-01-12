@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"cargar_pregunta_cpp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cargar_pregunta_cpp",
+  "parent":{
+    "name":"obj_cpp4",
+    "path":"folders/Objetos/obj_cpp4.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

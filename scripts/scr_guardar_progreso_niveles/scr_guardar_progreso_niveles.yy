@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_guardar_progreso_niveles",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_guardar_progreso_niveles",
+  "parent":{
+    "name":"obj_N",
+    "path":"folders/Objetos/obj_N.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

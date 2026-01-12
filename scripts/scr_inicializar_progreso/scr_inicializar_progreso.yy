@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_inicializar_progreso",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_inicializar_progreso",
+  "parent":{
+    "name":"obj_N",
+    "path":"folders/Objetos/obj_N.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

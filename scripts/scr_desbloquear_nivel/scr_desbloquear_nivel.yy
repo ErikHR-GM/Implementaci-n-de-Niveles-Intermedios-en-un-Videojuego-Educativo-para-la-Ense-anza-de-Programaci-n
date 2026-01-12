@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_desbloquear_nivel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_desbloquear_nivel",
+  "parent":{
+    "name":"obj_N",
+    "path":"folders/Objetos/obj_N.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
